@@ -6,9 +6,9 @@ manifest:
 
   remotes:
     - name: zephyrproject-rtos
-      url-base: https://github.com/zephyrproject-rtos
+      url-base: https://ghproxy.com/https://github.com/zephyrproject-rtos
     - name: memfault
-      url-base: https://github.com/memfault
+      url-base: https://ghproxy.com/https://github.com/memfault
 
   projects:
     - name: zephyr
